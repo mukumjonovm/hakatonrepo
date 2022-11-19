@@ -1,24 +1,28 @@
 Med Bro loyihasi haqida qisqacha
+
+
 Loyihadan maqsad --> Jamiyatdagi qog'ozbozlikni yo'qotish
 
 Loyihadan olinadigan foyda
 
 1 Ma'lumot yo'qolishini oldini olish
 
-2 Har galgi analiz uchun ketadigan vaqt va pulni qisqartirish
+2 Hujjatlarni to'ldirish ketadigan shifokor vaqtini qisqartirish
 
-3 Shifokorlar uchun xisobotlarni avtomatlashtirish
+3 Shifokorlar uchun hisobotlarni avtomatlashtirish
 
-4 Machine learning va Deeplearning uchun data yig'a olamiz
+4 Bemor o'zi haqidagi tibbiy ma'lumotnomalarni ko'ra olishi va ma'lumotnomalar olishi
 
-Jamoa haqida qisqachi
+5 Machine learning va Deeplearning uchun data yig'a olamiz
 
-Ism-familya O'qish joyi Jamoadagi pozitsiyasi
+Jamoa haqida qisqacha
 
-Sulaymonov Sarvarbek ADMI(6-kusr talabasi) Product meneger
+Ism-familiya O'qish joyi Jamoadagi pozitsiyasi
 
-Komilov Muhammadkarim ADMI(6-kurs talabasi) Project meneger
+Sulaymonov Sarvarbek ADMI(6-kusr talabasi) Product maneger
 
-Samandar TMI(2-kurs talabasi) Frontend devoleper
+Komilov Muhammadkarim ADMI(6-kurs talabasi) Project maneger
 
-Isakov Shohrux KIUF(2-kurs talabasi) Backend, Machine Learning devoleper
+Samandar TMI(2-kurs talabasi) Frontend developer
+
+Isakov Shohrux KIUF(2-kurs talabasi) Backend, Machine Learning developer
